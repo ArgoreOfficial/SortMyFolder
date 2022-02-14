@@ -1,0 +1,15 @@
+# Made by Argore
+# Made by Argore 2022
+
+# 
+# Folder Name: /.extension1/.extension2/.extension3/
+#
+
+0 Image Files: /.bmp/.png/.jpg/.jpeg/.gif/.ico/.psd/.ps/.tiff/.tif/.svg/.ai/.jfif/
+0 Music Files: /.mp3/.wav/.ogg/.midi/.mid/.aif/.cda/.wpa/.wma/.wpl/
+0 Document Files: /.txt/.doc/.docx/.json/.xml/.pdf/.html/
+0 Compressed Files: /.zip/.tar/.rar/.7z/
+0 Executable Files: /.exe/.apk/.msi/.py/.bat/
+0 3D Files: /.obj/.blend/.fbx/.dae/.stl/
+0 Video Files: /.mp4/.mov/.mkv/.swf/.webp/.webm/
+0 Jar Files: /.jar/
